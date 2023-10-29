@@ -14,19 +14,19 @@ global.Prefijo = '.'
 global.author = '○ Varyon-Bot - 𝟸𝟺/𝟽'
 global.namebot = 'Varyon-Bot'
 global.Nomowner = '『𝗗𝗔𝗩𝗜𝗗/⁷̶⁷̶⁴̶』'
-global.Numowner = '573245088667'
+global.Numowner = '5521979463689'
 global.WaLink = 'https://chat.whatsapp.com'
 //global.fgig = '○ Varyon-Bot - 𝟸𝟺/𝟽'
 
 global.owner = [
    ['573245088667', '『𝗗𝗔𝗩𝗜𝗗/⁷̶⁷̶⁴̶』', true],
-   ['51924543252'],
+   ['5521979463689'],
    ['5216671993513'],
    ['549262244-1096']
 ] //Numeros de owner
 
-global.mods = ['573245088667', '5216671993513']
-global.prems = ['573245088667', '5216671993513', '549262244-1096', '51924543252']
+global.mods = ['573245088667', '5521979463689']
+global.prems = ['573245088667', '5521979463689', '549262244-1096', '51924543252']
 
 // API Prefix
 global.APIs = { name: 'https://website'}
